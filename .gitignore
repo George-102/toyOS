@@ -35,5 +35,3 @@ gdb_history
 # 交叉编译器工具链（如果本地构建）
 cross-compiler/
 toolchain/
-
-docs/

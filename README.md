@@ -9,7 +9,7 @@
 
 **一个从零开始构建的教育性操作系统内核**
 
-[架构设计](ARCHITECTURE.md) · [开发指南](docs/DEVELOPMENT_GUIDE.md) · [报告问题](https://github.com/yourusername/toyOS/issues)
+[架构设计](ARCHITECTURE.md) · [开发指南](docs/DEVELOPMENT_GUIDE.md) · [报告问题](https://github.com/George-102/toyOS/issues)
 
 </div>
 
