@@ -1,0 +1,37 @@
+# 编译产物
+*.o
+*.bin
+*.iso
+*.elf
+*.map
+*.sym
+
+# 构建目录
+isodir/
+build/
+dist/
+
+# 临时文件
+*.tmp
+*.swp
+*.swo
+*~
+.DS_Store
+
+# IDE 配置
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# 调试文件
+*.log
+gdb_history
+
+# QEMU 快照
+*.qcow2
+*.img
+
+# 交叉编译器工具链（如果本地构建）
+cross-compiler/
+toolchain/
